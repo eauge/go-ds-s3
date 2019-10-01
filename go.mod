@@ -5,3 +5,5 @@ require (
 	github.com/ipfs/go-datastore v0.1.0
 	github.com/ipfs/go-ipfs v0.4.22
 )
+
+go 1.12
